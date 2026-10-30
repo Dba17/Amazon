@@ -1,4 +1,3 @@
-import React from 'react'
 import { AiOutlineMenu } from "react-icons/ai";
 import classes from "./header.module.css";
 
